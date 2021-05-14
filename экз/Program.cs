@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace экз
 {
-    class resh
+    public class resh
     {
 
         public void zad(int n)

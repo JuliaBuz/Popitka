@@ -11,7 +11,8 @@ namespace Test1
         public void TestMethod1()
         {
             int n = 5;
-                        
+            resh r = new resh();
+            r.zad(5);
         }
     }
 }
